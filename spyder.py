@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin python3
 import requests
 from requests.exceptions import MissingSchema
 from bs4 import BeautifulSoup
